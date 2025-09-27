@@ -234,3 +234,26 @@ lorem*3 → Generates 3 paragraphs of Lorem Ipsum
 - Useful for navigation and editing
 
 Remember: Emmet is case-insensitive and works with custom elements too!
+
+
+----------------------------------------------------------------------------------------------
+# Css Common used properties
+1.Box Model
+<img width="260" height="222" alt="image" src="https://github.com/user-attachments/assets/393279d1-cf53-4d7a-ba64-c152fb4546e6" />
+
+2.Position Property
+  1.Static 
+  2.Relative
+  3.Fixed
+  4.Absolute
+  4.Sticky
+  
+3.Flex box
+<img width="267" height="357" alt="image" src="https://github.com/user-attachments/assets/f969cbdf-26e6-455c-9886-e58332cbfda0" />
+<img width="978" height="388" alt="image" src="https://github.com/user-attachments/assets/3cf03be7-f29a-4358-9a68-dcfe34f4b210" />
+looks like it applis the child of multiple niot on parent
+
+4.grid property
+<img width="528" height="137" alt="image" src="https://github.com/user-attachments/assets/b52e183b-ac99-4c63-84db-cf91aa3843b3" />
+
+
